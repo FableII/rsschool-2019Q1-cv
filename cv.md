@@ -1,6 +1,6 @@
-##Irina Inina
+## Irina Inina
 
-##Personal info/contacts
+## Personal info/contacts
 
 **Country:** Ukraine
 
@@ -10,12 +10,12 @@
 
 **E-mail:** irbris@mail.ru
 
-##Summary
+## Summary
 
 At the moment not looking for job. 
 I am pleased to join the creation of JavaScript open-source projects, exchange of experience.
 
-##Experience and scills
+## Experience and scills
 
 Experienced in
 
@@ -25,17 +25,17 @@ Experienced in
  
 - Git
 
-##Code examples
+## Code examples
 
-HTML5, CSS3: https://siteportfolio.github.io/
+**HTML5, CSS3:** https://siteportfolio.github.io/
 
-JavaScript: https://js3032.github.io/ , https://howlerplayer.github.io/
+**JavaScript:** https://js3032.github.io/ , https://howlerplayer.github.io/
 
-Codewars: https://www.codewars.com/users/irinainina
+**Codewars:** https://www.codewars.com/users/irinainina
 
-FreeCodeCamp: https://www.freecodecamp.org/irinainina
+**FreeCodeCamp:** https://www.freecodecamp.org/irinainina
 
-##Education
+## Education
 
 Online courses
 
@@ -47,6 +47,6 @@ Online courses
 
 - loftschool | Comprehensive JavaScript training
 
-##Foreign language
+## Foreign language
 
 English (technical)
