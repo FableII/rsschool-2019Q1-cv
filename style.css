@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('assets/font/fontello.eot?70684468');
+  src: url('assets/font/fontello.eot?70684468#iefix') format('embedded-opentype'),
+       url('assets/font/fontello.woff2?70684468') format('woff2'),
+       url('assets/font/fontello.woff?70684468') format('woff'),
+       url('assets/font/fontello.ttf?70684468') format('truetype'),
+       url('assets/font/fontello.svg?70684468#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  background-color: #eee;
+  line-height: 1.6;
+}
+
+body {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1024px;
+  min-width: 480px;
+  font-size: 18px;
+}
+
+aside {
+  display: flex;
+  width: 35%;
+  min-width: 240px;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 40px;
+  background-color: #88B04B;
+  color: #fff;
+}
+
+aside h1 {
+  margin: 20px auto;
+  font-size: 32px;
+}
+
+main {
+  width: 65%;
+  min-width: 240px;
+  padding: 40px;
+  background-color: #fff;
+  color: #333;
+}
+
+img {
+  margin-bottom: 20px;
+  width: 100%;
+  min-width: 160px;
+  background-size: contain;
+}
+
+.info,
+.skills {
+  justify-content: flex-start;
+}
+
+.info a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main a {
+  color: #333;
+  text-decoration: none;
+}
+
+main h2,
+main h3 {
+  color: #88B04B;
+}
+
+main h2:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+main h2 {
+  margin: 40px 0 25px;
+}
+
+i {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  text-decoration: none;
+  padding-right: 10px;
+}
+
+.icon-mail:before { content: '\e800'; }
+.icon-code:before { content: '\e801'; }
+.icon-heart:before { content: '\e802'; }
+.icon-github-circled-alt2:before { content: '\f056'; } 
+.icon-html5:before { content: '\f13b'; } 
+.icon-css3:before { content: '\f13c'; }
+.icon-graduation-cap:before { content: '\f19d'; } 
+.icon-git:before { content: '\f1d3'; }
+.icon-trademark:before { content: '\f25c'; } 
+.icon-free-code-camp:before { content: '\f2c5'; }
+
