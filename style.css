@@ -42,7 +42,7 @@ aside h1 {
 main {
   width: 65%;
   min-width: 240px;
-  padding: 40px;
+  padding: 30px 40px 40px;
   background-color: #fff;
   color: #333;
 }
@@ -54,6 +54,30 @@ img {
   background-size: contain;
 }
 
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.projects {
+  margin-bottom: 5px;
+}
+
+.courses {
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-left: 22px;
+  padding-bottom: 0;
+}
+
+ul {
+  margin-top: 5px;
+}
+
+.courses + ul {
+  margin-top: 0;
+}
+
 .info,
 .skills {
   justify-content: flex-start;
@@ -61,12 +85,10 @@ img {
 
 .info a {
   color: #fff;
-  text-decoration: none;
 }
 
 main a {
   color: #333;
-  text-decoration: none;
 }
 
 main h2,
@@ -74,13 +96,13 @@ main h3 {
   color: #88B04B;
 }
 
+main h2 {
+  margin: 30px 0 10px;
+}
+
 main h2:first-child {
   padding-top: 0;
   margin-top: 0;
-}
-
-main h2 {
-  margin: 40px 0 25px;
 }
 
 i {
