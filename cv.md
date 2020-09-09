@@ -22,7 +22,7 @@ At the moment not looking for job. At the moment, my goal is to work together on
  
 - Git
 
-## Code examples
+## Code examples   
 
 **HTML5, CSS3:** [https://siteportfolio.github.io/](https://siteportfolio.github.io/)
 
