@@ -12,7 +12,7 @@
 
 At the moment not looking for job. At the moment, my goal is to work together on a real JavaScript project. I will be glad to join the creation of open source projects. I would like to work under the guidance of an experienced developer to gain practical experience.
 
-## Experience and scills
+## Experience and skills
 
 - JavaScript
 
